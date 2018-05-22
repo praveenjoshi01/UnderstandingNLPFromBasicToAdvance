@@ -9,5 +9,6 @@ Kindly proceed in underneath given order for better understanding :
  3.ML_NLP_Classifying_Text.ipynb </br>
  4.VADER _Sentiment Analysis Stage1 </br>
  5.Sentiwordnet _Sentiment Analysis Stage2 </br>
-
-POP:- Dataset for indexed topic 4 and 5 can be found under rt-polaritydata folder.
+ 6.MLBased-NaiveBayes _Sentiment Analysis</br>
+ 
+POP:- Dataset for indexed topic 4, 5 and 6 can be found under rt-polaritydata folder.
