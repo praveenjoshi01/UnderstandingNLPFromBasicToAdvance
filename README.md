@@ -12,9 +12,9 @@ Kindly proceed in underneath given order for better understanding :
  6.MLBased-NaiveBayes _Sentiment Analysis</br>
  7.Spacy- https://github.com/praveenjoshi01/spacy-notebooks </br>
  8.Gensim- https://github.com/praveenjoshi01/gensim</br>
- 9.Topic Modeling - Gensim LDA and LDA Mallet Model
- 10.Topic Modeling - skLearn nonnegative matrix factorization (NMF) and latent Dirichlet allocation (LDA)
+ 9.Topic Modeling - Gensim LDA and LDA Mallet Model</br>
+ 10.Topic Modeling - skLearn nonnegative matrix factorization (NMF) and latent Dirichlet allocation (LDA)</br>
  
-POP:- 
-a. Dataset for indexed topic 4, 5 and 6 can be found under rt-polaritydata folder.
+POP:- </br>
+a. Dataset for indexed topic 4, 5 and 6 can be found under rt-polaritydata folder.</br>
 b. For best result between 9 and 10, one can go for 10.LDA
