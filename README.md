@@ -14,7 +14,7 @@ Kindly proceed in underneath given order for better understanding :
  8.Gensim- https://github.com/praveenjoshi01/gensim</br>
  9.Topic Modeling - Gensim LDA and LDA Mallet Model</br>
  10.Topic Modeling - skLearn nonnegative matrix factorization (NMF) and latent Dirichlet allocation (LDA)</br>
- 11. Doc2vec for similarity and ranking</br>
+ 11. Doc2vec for similarity and ranking - DocSimilarity_Cluster_SearchAndRank</br>
  
 POP:- </br>
 a. Dataset for indexed topic 4, 5 and 6 can be found under rt-polaritydata folder.</br>
